@@ -1,26 +1,26 @@
-# 🧑‍💻 MiniGitHub – Repository Management System
+# MiniGitHub – Repository Management System
 
-## 🔍 Overview
+## Overview
 MiniGitHub is a simplified version of GitHub built using Python Flask, SQLite, and basic HTML/CSS. It allows users to register, log in, and upload project code with descriptions — mimicking basic repo functionality for college projects.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Backend**: Python, Flask
 - **Frontend**: HTML, CSS
 - **Database**: SQLite3
 
 ---
 
-## ✨ Features
-- ✅ User registration & login
-- ✅ Project upload with code snippet, project type
-- ✅ View all uploaded projects
-- ✅ Simple UI for demo purpose
+## Features
+- User registration & login
+- Project upload with code snippet, project type
+- View all uploaded projects
+- Simple UI for demo purpose
 
 ---
 
-## 🚀 How to Run the Project Locally
+## How to Run the Project Locally
 
 ```bash
 git clone https://github.com/KIRU-2901/MINIGITHUB.git
